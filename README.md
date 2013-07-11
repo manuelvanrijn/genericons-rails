@@ -25,11 +25,11 @@ In your `application.css`, include the css file:
 
 ## Changes
 
-    | Version | Notes                                                                     |
-    |---------+---------------------------------------------------------------------------|
-    |   0.1.2 | Update to v2.09 of Genericons                                             |
-    |   0.1.1 | Update to v2.05 of Genericons                                             |
-    |   0.1.0 | Initial release                                                           |
+| Version | Notes                                                                               |
+| -------:| ----------------------------------------------------------------------------------- |
+|   1.4.0 | Update to v2.09 of Genericons                                                       |
+|   0.1.1 | Update to v2.05 of Genericons                                                       |
+|   0.1.0 | Initial release                                                                     |
 
 ## License
 
