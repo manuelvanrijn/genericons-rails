@@ -27,6 +27,7 @@ In your `application.css`, include the css file:
 
 | Version | Notes                                                                               |
 | -------:| ----------------------------------------------------------------------------------- |
+|   1.4.1 | Update to v3.09 of Genericons                                                       |
 |   1.4.0 | Update to v2.09 of Genericons                                                       |
 |   0.1.1 | Update to v2.05 of Genericons                                                       |
 |   0.1.0 | Initial release                                                                     |
