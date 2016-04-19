@@ -7,7 +7,7 @@ Gem::Specification.new do |spec|
   spec.name          = "genericons-rails"
   spec.version       = Genericons::Rails::VERSION
   spec.authors       = ["Manuel van Rijn"]
-  spec.email         = ["manuel@manuelles.nl"]
+  spec.email         = ["manuel@manuelvanrijn.nl"]
   spec.description   = %q{A small gem for putting genericons into the Rails asset pipeline}
   spec.summary       = %q{an asset gemification of the genericons icon font library}
   spec.homepage      = "https://github.com/manuelvanrijn/genericons-rails"
